@@ -67,7 +67,7 @@
         <mxCell id="a0fFAlC4vpPNby8pKLP0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.014;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E6E6E6;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a0fFAlC4vpPNby8pKLP0-27" target="a0fFAlC4vpPNby8pKLP0-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a0fFAlC4vpPNby8pKLP0-33" value="Query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#221F22;spacing=7;" vertex="1" connectable="0" parent="a0fFAlC4vpPNby8pKLP0-30">
+        <mxCell id="a0fFAlC4vpPNby8pKLP0-33" value="Queries" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#221F22;spacing=7;" vertex="1" connectable="0" parent="a0fFAlC4vpPNby8pKLP0-30">
           <mxGeometry x="0.0781" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -78,7 +78,7 @@
             <mxPoint x="220" y="834" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0fFAlC4vpPNby8pKLP0-34" value="Retrieve" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#221F22;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="a0fFAlC4vpPNby8pKLP0-31">
+        <mxCell id="a0fFAlC4vpPNby8pKLP0-34" value="Retrieves" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#221F22;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="a0fFAlC4vpPNby8pKLP0-31">
           <mxGeometry x="-0.0689" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
