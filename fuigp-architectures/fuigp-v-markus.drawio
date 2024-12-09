@@ -58,8 +58,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0fFAlC4vpPNby8pKLP0-26" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Compose FUI blueprint&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;From layouts, themes, components and effects retrieved by the similarity search, we construct a blueprint that will be mapped to FUI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;fontColor=#E6E6E6;labelBackgroundColor=none;spacing=12;fillStyle=solid;fontFamily=Helvetica;glass=0;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="444.12" y="900" width="242.88" height="144" as="geometry" />
+        <mxCell id="a0fFAlC4vpPNby8pKLP0-26" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Compose FUI blueprint&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;From layouts, themes, components and effects retrieved by the similarity search, we construct a blueprint that will be mapped to the client DOM&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=none;fontColor=#E6E6E6;labelBackgroundColor=none;spacing=12;fillStyle=solid;fontFamily=Helvetica;glass=0;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="444.12" y="906" width="242.88" height="144" as="geometry" />
         </mxCell>
         <mxCell id="a0fFAlC4vpPNby8pKLP0-27" value="&lt;b&gt;DB handler&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="248.47" y="736" width="106.94" height="97" as="geometry" />
