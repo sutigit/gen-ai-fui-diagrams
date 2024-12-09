@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#221f22" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#221f22" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="a0fFAlC4vpPNby8pKLP0-17" value="&lt;b&gt;Vector DB&lt;/b&gt;&lt;div&gt;- layouts&lt;/div&gt;&lt;div&gt;- themes&lt;/div&gt;&lt;div&gt;- components&lt;/div&gt;&lt;div&gt;-effects&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="28" y="707.25" width="103.5" height="145.5" as="geometry" />
+          <mxGeometry x="51" y="707.25" width="103.5" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;b&gt;User prompt:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&quot;User interface that is dark and ominous and displays a computer getting hacked&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#E6E6E6;fontColor=#1A1A1A;labelBorderColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140.12" y="193" width="550" height="40" as="geometry" />
